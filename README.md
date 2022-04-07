@@ -33,6 +33,8 @@ To install the C++ API from precompiled binaries you'll need a few things;
 
 Afterwards you can also consult the [linking
 documentation](https://docs.wasmtime.dev/c-api/) for the C API to link Wasmtime
+
+
 into your project. Your C++ code will then use:
 
 ```cpp
